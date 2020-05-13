@@ -1,8 +1,8 @@
 # SOLID Challenge
 
-##Exercise from the SOLID Principles Worshop (https://youtu.be/z6HBAq7_Q5c)
+## Exercise from the SOLID Principles Workshop (https://youtu.be/z6HBAq7_Q5c)
 
-###Unity Assets used in this project:
+### Unity Assets used in this project:
 
 - Fantasy Forest Environment - **Free** (https://assetstore.unity.com/packages/3d/environments/fantasy/fantasy-forest-environment-free-demo-35361)
 - Fantasy Wooden GUI - **Free** (https://assetstore.unity.com/packages/2d/gui/fantasy-wooden-gui-free-103811)
